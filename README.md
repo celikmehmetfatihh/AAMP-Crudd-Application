@@ -1,6 +1,6 @@
 # AAMP-Crudd-Application
 
-#Implementation Details
+# Implementation Details
 1. Language: C#
 2. Framework: ASP.NET
 3. Integrated Development Environment: Visual Studio
@@ -21,7 +21,7 @@ user experience across devices and screen sizes.
 By integrating ASP.NET, Visual Studio, Oracle, DataTableAdapters, and Bootstrap, we built user-friendly 
 application that met our project goals.
 
-#Project Description
+# Project Description
   With AMMP, users can create user accounts, add their vehicles, and input
 maintenance data such as oil changes,tire rotations, and brake replacements. The platform
 provides reminders to users when the next maintenance is due based on their vehicle's
